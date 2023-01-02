@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4a7e391.css",
+    "main.js": "/static/js/main.1297c676.js",
+    "static/media/dealspk.PNG": "/static/media/dealspk.a93f488ca5d05e483fff.PNG",
+    "static/media/travelly.PNG": "/static/media/travelly.2cc41d81c703ace9b6ea.PNG",
+    "static/media/elena.PNG": "/static/media/elena.bf45d95643babfc0e58d.PNG",
+    "static/media/image3.PNG": "/static/media/image3.9f65be7ebcebea5de6be.PNG",
+    "static/media/AhsanResumee1.pdf": "/static/media/AhsanResumee1.3c53f29e062bbf47fff2.pdf",
+    "static/media/dashboard.PNG": "/static/media/dashboard.915b4c43bd9c44af5bc1.PNG",
+    "static/media/Title.jpg": "/static/media/Title.0be4be22b91746c875db.jpg",
+    "static/media/service-2.svg": "/static/media/service-2.360040db94db03a3ca860042e67c4912.svg",
+    "static/media/service-1.svg": "/static/media/service-1.e6772bd53c577af49129f09d020b488f.svg",
+    "static/media/dots-bg-dark.svg": "/static/media/dots-bg-dark.3a79e4a2778386f14af1.svg",
+    "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/index.html",
+    "main.d4a7e391.css.map": "/static/css/main.d4a7e391.css.map",
+    "main.1297c676.js.map": "/static/js/main.1297c676.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4a7e391.css",
+    "static/js/main.1297c676.js"
+  ]
+}
