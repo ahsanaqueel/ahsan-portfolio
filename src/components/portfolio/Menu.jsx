@@ -3,6 +3,8 @@ import Work2 from "../../assets/dashboard.PNG";
 import Work3 from "../../assets/image3.PNG";
 import Work4 from "../../assets/elena.PNG";
 import Work5 from "../../assets/travelly.PNG";
+import Work6 from "../../assets/openai.PNG";
+import Work7 from "../../assets/reacttailwind.PNG";
 
 const Menu = [
     {
