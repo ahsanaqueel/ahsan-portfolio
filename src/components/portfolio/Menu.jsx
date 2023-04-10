@@ -44,6 +44,22 @@ const Menu = [
         category: ["Frontend"],
         url: "https://traverlly.netlify.app",
         repositoryUrl: "https://github.com/ahsanaqueel"
+    },
+    {
+        id: 6,
+        image: Work6,
+        title: "AI Keyword Extractor React+OpenAI",
+        category: ["OpenAI","MERN"],
+        url: "https://aikeywordsextractor.netlify.app/",
+        repositoryUrl: "https://github.com/ahsanaqueel/AI-Keywords-Extractor-React-OpenAI"
+    },
+    {
+        id: 7,
+        image: Work7,
+        title: "React Tailwind Practice",
+        category: ["MERN"],
+        url: "https://react-tailwind-prac.netlify.app/",
+        repositoryUrl: "https://github.com/ahsanaqueel/Tailwind-practice-template"
     }
 ];
 
