@@ -39,7 +39,7 @@ const About = () => {
                             <li>AWS S3</li>
                             
                         </ul>
-                        <button className="btn" onClick={downloadResume}>Donwload CV</button>
+                        {/* <button className="btn" onClick={downloadResume}>Donwload CV</button> */}
                     </div>
 
                     {/* <div className="about__skills grid">
