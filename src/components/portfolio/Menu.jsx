@@ -5,6 +5,8 @@ import Work4 from "../../assets/elena.PNG";
 import Work5 from "../../assets/travelly.PNG";
 import Work6 from "../../assets/openai.PNG";
 import Work7 from "../../assets/reacttailwind.PNG";
+import Work8 from "../../assets/3dmind.png";
+import Work9 from "../../assets/businesssupport.png"
 
 const Menu = [
     {
@@ -62,6 +64,20 @@ const Menu = [
         category: ["MERN"],
         url: "https://react-tailwind-prac.netlify.app/",
         repositoryUrl: "https://github.com/ahsanaqueel/Tailwind-practice-template"
+    },
+    {
+        id: 8,
+        image: Work8,
+        title: "3D Mind",
+        category: ["MERN"],
+        url: "https://www.3dmind.co/"
+    },
+    {
+        id: 9,
+        image: Work9,
+        title: "Business Support Near Me",
+        category: ["Wordpress","Frontend"],
+        url: "https://businesssupportnearme.co.uk/"
     }
 ];
 
