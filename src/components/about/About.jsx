@@ -30,8 +30,11 @@ const About = () => {
                             <li>CSS</li>
                             <li>JavaScript (ES6+)</li>
                             <li>BootStrap</li>
+                            <li>Tailwind CSS</li>
                             <li>React</li>
                             <li>Redux</li>
+                            <li>Redux Toolkit</li>
+                            <li>NextJS</li>
                             <li>Node</li>
                             <li>MongoDB</li>
                             <li>Mysql</li>
