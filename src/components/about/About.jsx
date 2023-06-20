@@ -34,7 +34,6 @@ const About = () => {
                             <li>React</li>
                             <li>Redux</li>
                             <li>Redux Toolkit</li>
-                            <li>NextJS</li>
                             <li>Node</li>
                             <li>MongoDB</li>
                             <li>Mysql</li>
